@@ -6,8 +6,8 @@ My passion for the binary world started within the young soul of me, when I laid
 🌍  I'm based in Rabat* 
 ✉️  You can contact me at [abdel.samery@gmail.com](mailto:abdel.samery@gmail.com)
 
-<!--a href="https://www.github.com/Samery00/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/github/followers/Samery00/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a-->
+<a href="https://www.github.com/Samery00/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/github/followers/Samery00?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -20,8 +20,8 @@ My passion for the binary world started within the young soul of me, when I laid
 ### Badges
 
 <b>My GitHub Stats</b>
-<!--a href="http://www.github.com/samery00/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samery00/&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="samery00/'s GitHub stats" /></a-->
+<a href="http://www.github.com/samery00/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samery00&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="samery00/'s GitHub stats" /></a>
   [![Samery00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samery00&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Samery00/github-readme-stats)
 
 <a href="http://www.github.com/samery00/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samery00&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
