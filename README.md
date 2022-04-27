@@ -6,8 +6,8 @@ My passion for the binary world started within the young soul of me, when I laid
 🌍  I'm based in Rabat* 
 ✉️  You can contact me at [abdel.samery@gmail.com](mailto:abdel.samery@gmail.com)
 
-<a href="https://www.github.com/samery00/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/github/followers/samery00/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/Samery00/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/github/followers/Samery00/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -20,15 +20,15 @@ My passion for the binary world started within the young soul of me, when I laid
 ### Badges
 
 <b>My GitHub Stats</b>
-| ![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=samery00/&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+| ![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Samery00/&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 <a href="http://www.github.com/samery00/">
-  <img src="https://github-readme-stats.vercel.app/api?username=samery00/&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="samery00/'s GitHub stats" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samery00/&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="samery00/'s GitHub stats" /></a>
 
-<a href="http://www.github.com/samery00/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samery00/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/samery00/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samery00/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/samery00/"><img src="https://activity-graph.herokuapp.com/graph?username=samery00/&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/samery00/"><img src="https://activity-graph.herokuapp.com/graph?username=Samery00/&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/samery00/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samery00/&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/samery00/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samery00/&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
