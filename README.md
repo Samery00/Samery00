@@ -6,8 +6,8 @@ My passion for the binary world started within the young soul of me, when I laid
 🌍  I'm based in Rabat* 
 ✉️  You can contact me at [abdel.samery@gmail.com](mailto:abdel.samery@gmail.com)
 
-<a href="https://www.github.com/samery00/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/samery00/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/samery00/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/github/followers/samery00/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -20,8 +20,9 @@ src="https://img.shields.io/github/followers/samery00/?logo=github&style=for-the
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/samery00/"><img src="https://github-readme-stats.vercel.app/api?username=samery00/&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="samery00/'s GitHub stats" /></a>
+| ![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=samery00/&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+<a href="http://www.github.com/samery00/">
+  <img src="https://github-readme-stats.vercel.app/api?username=samery00/&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="samery00/'s GitHub stats" /></a>
 
 <a href="http://www.github.com/samery00/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samery00/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
