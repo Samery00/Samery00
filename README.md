@@ -2,8 +2,8 @@ Hi 👋 My name is Abdelouadoud ES-SAMERY
 =======================================
 I am a Software Engineer (Backend Dev)
 --------------------------------------
-My passion for the binary world started within the young soul of me, when I laid hands on our first home computer, it was so slow but that did not hold from creating stuff with my own hands and satisfying my curiosities! Here I am now as software engineer using python as my wand 🪄, ready to give back to the community <3* <br>
-🌍  I'm based in Rabat* <br>
+My passion for the binary world started within the young soul of me, when I laid hands on our first home computer, it was so slow but that did not hold from creating stuff with my own hands and satisfying my curiosities! Here I am now as software engineer using python as my wand 🪄, ready to give back to the community <3 <br>
+🌍  I'm based in Rabat <br>
 ✉️  You can contact me at [abdel.samery@gmail.com](mailto:abdel.samery@gmail.com)
 
 <a href="https://www.github.com/Samery00/" target="_blank" rel="noreferrer"> 
