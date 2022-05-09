@@ -4,7 +4,7 @@ I am a Software Engineer (Backend Dev)
 --------------------------------------
 My passion for the binary world started within the young soul of me, when I laid hands on our first home computer, it was so slow but that did not hold from creating stuff with my own hands and satisfying my curiosities! Here I am now as software engineer using python as my wand 🪄, ready to give back to the community <3 <br>
 🌍  I'm based in Rabat <br>
-✉️  You can contact me at [abdel.samery@gmail.com](mailto:abdel.samery@gmail.com) or send me an invite on &nbsp; <a href="https://www.linkedin.com/in/abdelsamery/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="20" /></a>
+✉️  You can contact me at [abdel.samery@gmail.com](mailto:abdel.samery@gmail.com) or send me an invite on &nbsp; <a href="https://www.linkedin.com/in/abdelsamery/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="25" /></a>
 
 <a href="https://www.github.com/Samery00/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/github/followers/Samery00?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
