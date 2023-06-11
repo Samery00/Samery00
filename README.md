@@ -19,7 +19,7 @@ My passion for the binary world started within the young soul of me, when I laid
 
 ### Badges
 
-<b>My GitHub Stats</b><br>
+<!--b>My GitHub Stats</b><br>
 <a style={float:left;padding-right:10px;}, href="http://www.github.com/samery00/">
   <img src="https://github-readme-stats.vercel.app/api?username=Samery00&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="samery00/'s GitHub stats" /></a>
 
